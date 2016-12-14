@@ -1,0 +1,4 @@
+Hello. 
+
+git push origin master // git push --all
+git fetch --all will delete all changes in your local repository
