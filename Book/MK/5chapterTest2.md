@@ -2,7 +2,7 @@
 title: "Fitting Linear Models with Homogeneous Variance"
 author: "MK"
 date: "14 detsember 2016"
-output: html_document
+output: github_document
 ---
 
 **The Data**  
